@@ -1,0 +1,28 @@
+.app {
+  text-align: center;
+}
+
+.app-header {
+  font-size: 3rem;
+}
+
+.cart {
+  margin: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cart-label {
+  font-size: 2rem;
+}
+
+.container {
+  margin: 1rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+  justify-content: center;
+}
